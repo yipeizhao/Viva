@@ -46,15 +46,29 @@
         \begin{itemize}
             \item Redundancy of a graph: $R=\frac{1}{m}\sum_{i,j>i}ln(d_id_j)$
             \item Mutual information of a graph: $I=\frac{1}{m}\sum_{i,j>i}ln(\frac{2m}{d_id_j})$
+            \item An alternative way to state the mutual information: $I=ln(2m)-R$
             \item Highest redundancy: $R_{clique} = 2ln(n-1)$
             \item Lowest redundancy: $R_{path} = 2(\frac{n-2}{n-1})ln(2)$
             \item Highest mutual information: $I_{path} = ln(n-1)-(\frac{n-3}{n-1})ln2$
             \item Lowest mutual information: $I_{clique}=ln(\frac{n}{n-1})$
-            \item $C = (R - R_{path})(I-I_{clique})$
         \end{itemize}
+        We can define the complexity to be $C = (R - R_{path})(I-I_{clique})$. 
     \end{frame}
 
-
+    \begin{frame}{$MA_{RI}$ continue}
+        To compare different complexity measures, they need to be normalised: $0<C<1$.\\
+        The complexity measure can be rewritten as: $C=(R-R_{path})(ln(2m)-R-I_{clique})$.\\
+        \vspace{5mm}
+        \centering
+        $C = -R^2+(ln(2m)-I_{clique}+R_{path})R+(-R_{path}ln(2m)+R_{path}I_{clique})$
+    \\
+        \vspace{5mm}
+        $R_{max} = \frac{ln(2m)-I_{clique}+R_{path}}{2}$\\
+        \vspace{5mm}
+        $C_{max} = \frac{(ln(2m)-I_{clique}-R_{path})^2}{4}$\\
+        \vspace{5mm}
+        $MA_{RI} = \frac{4(R-R_{path})(I-I_{clique})}{(ln(2m)-I_{clique}-R_{path})^2}$
+    \end{frame}
     \frame{Result}
     \frame{Conclusion}
 
