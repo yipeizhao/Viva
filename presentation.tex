@@ -1,6 +1,7 @@
 \documentclass{beamer}
 \usepackage{graphicx,tabularx}
 \usepackage{amsmath}
+\usepackage{multicol}
 
 \graphicspath{ {./source/} }
 \usepackage[utf8]{inputenc}
@@ -69,7 +70,31 @@
         \vspace{5mm}
         $MA_{RI} = \frac{4(R-R_{path})(I-I_{clique})}{(ln(2m)-I_{clique}-R_{path})^2}$
     \end{frame}
-    \frame{Result}
+
+    \begin{frame}{Result}
+        \centering
+        \vspace{-15mm}
+        \begin{figure}
+            \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{complexities_sp.eps}
+            \vspace{-8mm}
+            \caption{Complexity of 500 $G(n,m)$ graphs, 100 BA graphs, 100 WS graphs and 100 NW graphs, with $n=20$.}
+        \end{figure}
+    \end{frame}
+
+    \begin{frame}{Result continue}
+        \vspace{-5mm}
+            \begin{figure}
+                \includegraphics[width=\textwidth,height=0.5\textheight,keepaspectratio]{complexity_correlation.eps}
+                \vspace{-10mm}
+                \caption{Correlation between complexity measures, all graphs have 25 nodes and random number of edges. The darker the data point, the graph has more number of nodes.}
+            \end{figure}
+            \vspace{-15mm}
+            \begin{figure}
+                \includegraphics[width=\textwidth,height=0.5\textheight,keepaspectratio]{complement.eps}
+                \caption{ Complexities of the original graphs and complement graphs with $n = 20$.}
+            \end{figure}
+    \end{frame}
+
     \frame{Conclusion}
 
 
