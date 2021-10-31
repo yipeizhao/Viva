@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.21)  30 OCT 2021 21:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.21)  31 OCT 2021 15:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -773,100 +773,123 @@ Dictionary: translator-theorem-dictionary, Language: English
 <v1.png, id=44, 727.71875pt x 412.54124pt>
 File: v1.png Graphic file (type png)
 <use v1.png>
-Package pdftex.def Info: v1.png  used on input line 19.
+Package pdftex.def Info: v1.png  used on input line 20.
 (pdftex.def)             Requested size: 307.28987pt x 174.20407pt.
- [2
-
- <./v1.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
  (d:/texlive/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
  (d:/texlive/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 42.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 20.
  (d:/texlive/texlive/2021/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
-) [3
+) [2
+
+ <./v1.png>] [3
 
 ] [4
 
 ] [5
 
 ]
-Package epstopdf Info: Source file: <complexities_sp.eps>
-(epstopdf)                    date: 2021-10-21 11:59:55
-(epstopdf)                    size: 181008 bytes
-(epstopdf)             Output file: <complexities_sp-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-10-30 18:14:51
-(epstopdf)                    size: 536552 bytes
-(epstopdf)             Command: <repstopdf --outfile=complexities_sp-eps-converted-to.pdf complexities_sp.eps>
-(epstopdf)             \includegraphics on input line 82.
-Package epstopdf Info: Output file is already uptodate.
-<complexities_sp-eps-converted-to.pdf, id=158, 722.7pt x 1156.32pt>
-File: complexities_sp-eps-converted-to.pdf Graphic file (type pdf)
-<use complexities_sp-eps-converted-to.pdf>
-Package pdftex.def Info: complexities_sp-eps-converted-to.pdf  used on input line 82.
-(pdftex.def)             Requested size: 168.21347pt x 269.14157pt.
+<1.png, id=160, 421.575pt x 321.2pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 93.
+(pdftex.def)             Requested size: 92.18713pt x 70.23782pt.
+<2.png, id=161, 315.42844pt x 243.15843pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 93.
+(pdftex.def)             Requested size: 92.18904pt x 71.06697pt.
+<3.png, id=162, 317.68687pt x 227.34938pt>
+File: 3.png Graphic file (type png)
+<use 3.png>
+Package pdftex.def Info: 3.png  used on input line 93.
+(pdftex.def)             Requested size: 92.185pt x 65.97125pt.
+<4.png, id=163, 310.15875pt x 230.36063pt>
+File: 4.png Graphic file (type png)
+<use 4.png>
+Package pdftex.def Info: 4.png  used on input line 93.
+(pdftex.def)             Requested size: 92.187pt x 68.46898pt.
+<5.png, id=164, 310.91156pt x 228.855pt>
+File: 5.png Graphic file (type png)
+<use 5.png>
+Package pdftex.def Info: 5.png  used on input line 93.
+(pdftex.def)             Requested size: 92.18777pt x 67.85735pt.
+<6.png, id=165, 307.90031pt x 230.36063pt>
+File: 6.png Graphic file (type png)
+<use 6.png>
+Package pdftex.def Info: 6.png  used on input line 93.
+(pdftex.def)             Requested size: 92.18756pt x 68.97162pt.
+<7.png, id=166, 311.66437pt x 231.86626pt>
+File: 7.png Graphic file (type png)
+<use 7.png>
+Package pdftex.def Info: 7.png  used on input line 93.
+(pdftex.def)             Requested size: 108.5325pt x 80.74399pt.
+<8.png, id=167, 304.13625pt x 232.61906pt>
+File: 8.png Graphic file (type png)
+<use 8.png>
+Package pdftex.def Info: 8.png  used on input line 93.
+(pdftex.def)             Requested size: 105.56754pt x 80.74348pt.
 
-Overfull \vbox (6.37158pt too high) detected at line 82
+Overfull \vbox (18.97769pt too high) detected at line 93
  []
 
 [6
 
- <./complexities_sp-eps-converted-to.pdf>]
+ <./1.png (PNG copy)> <./2.png> <./3.png> <./4.png> <./5.png> <./6.png> <./7.png> <./8.png>]
 Package epstopdf Info: Source file: <complexity_correlation.eps>
-(epstopdf)                    date: 2021-10-21 11:59:55
+(epstopdf)                    date: 2021-10-21 10:59:55
 (epstopdf)                    size: 388499 bytes
 (epstopdf)             Output file: <complexity_correlation-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-10-30 18:51:36
+(epstopdf)                    date: 2021-10-30 17:51:36
 (epstopdf)                    size: 398026 bytes
 (epstopdf)             Command: <repstopdf --outfile=complexity_correlation-eps-converted-to.pdf complexity_correlation.eps>
-(epstopdf)             \includegraphics on input line 96.
+(epstopdf)             \includegraphics on input line 107.
 Package epstopdf Info: Output file is already uptodate.
-<complexity_correlation-eps-converted-to.pdf, id=224, 1589.94pt x 505.89pt>
+<complexity_correlation-eps-converted-to.pdf, id=193, 1589.94pt x 505.89pt>
 File: complexity_correlation-eps-converted-to.pdf Graphic file (type pdf)
 <use complexity_correlation-eps-converted-to.pdf>
-Package pdftex.def Info: complexity_correlation-eps-converted-to.pdf  used on input line 96.
+Package pdftex.def Info: complexity_correlation-eps-converted-to.pdf  used on input line 107.
 (pdftex.def)             Requested size: 307.28348pt x 97.772pt.
 Package epstopdf Info: Source file: <complement.eps>
-(epstopdf)                    date: 2021-10-21 11:59:55
+(epstopdf)                    date: 2021-10-21 10:59:55
 (epstopdf)                    size: 374971 bytes
 (epstopdf)             Output file: <complement-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-10-30 19:02:03
+(epstopdf)                    date: 2021-10-30 18:02:03
 (epstopdf)                    size: 337583 bytes
 (epstopdf)             Command: <repstopdf --outfile=complement-eps-converted-to.pdf complement.eps>
-(epstopdf)             \includegraphics on input line 96.
+(epstopdf)             \includegraphics on input line 107.
 Package epstopdf Info: Output file is already uptodate.
-<complement-eps-converted-to.pdf, id=225, 1300.86pt x 361.35pt>
+<complement-eps-converted-to.pdf, id=194, 1300.86pt x 361.35pt>
 File: complement-eps-converted-to.pdf Graphic file (type pdf)
 <use complement-eps-converted-to.pdf>
-Package pdftex.def Info: complement-eps-converted-to.pdf  used on input line 96.
+Package pdftex.def Info: complement-eps-converted-to.pdf  used on input line 107.
 (pdftex.def)             Requested size: 307.2901pt x 85.35835pt.
  [7
 
  <./complexity_correlation-eps-converted-to.pdf> <./complement-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <real_networks.eps>
-(epstopdf)                    date: 2021-10-21 11:59:55
+(epstopdf)                    date: 2021-10-21 10:59:55
 (epstopdf)                    size: 33374 bytes
 (epstopdf)             Output file: <real_networks-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-10-30 21:18:39
+(epstopdf)                    date: 2021-10-30 20:18:39
 (epstopdf)                    size: 18926 bytes
 (epstopdf)             Command: <repstopdf --outfile=real_networks-eps-converted-to.pdf real_networks.eps>
-(epstopdf)             \includegraphics on input line 103.
+(epstopdf)             \includegraphics on input line 115.
 Package epstopdf Info: Output file is already uptodate.
-<real_networks-eps-converted-to.pdf, id=346, 1156.32pt x 578.16pt>
+<real_networks-eps-converted-to.pdf, id=315, 1156.32pt x 578.16pt>
 File: real_networks-eps-converted-to.pdf Graphic file (type pdf)
 <use real_networks-eps-converted-to.pdf>
-Package pdftex.def Info: real_networks-eps-converted-to.pdf  used on input line 103.
-(pdftex.def)             Requested size: 307.28987pt x 153.64394pt.
+Package pdftex.def Info: real_networks-eps-converted-to.pdf  used on input line 115.
+(pdftex.def)             Requested size: 430.20393pt x 215.09799pt.
  [8
 
  <./real_networks-eps-converted-to.pdf>] [9
-
-] [10
 
 ]
 \tf@nav=\write6
@@ -883,18 +906,18 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21018 strings out of 478579
- 390729 string characters out of 5853449
- 684150 words of memory out of 5000000
- 38438 multiletter control sequences out of 15000+600000
+ 21054 strings out of 478579
+ 390711 string characters out of 5853449
+ 686148 words of memory out of 5000000
+ 38469 multiletter control sequences out of 15000+600000
  415792 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,14n,124p,483b,546s stack positions out of 5000i,500n,10000p,200000b,80000s
 <d:/texlive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/texlive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><d:/texlive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><d:/texlive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><d:/texlive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><d:/texlive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb><d:/texlive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb><d:/texlive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/texlive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on presentation.pdf (10 pages, 1592012 bytes).
+Output written on presentation.pdf (9 pages, 1211097 bytes).
 PDF statistics:
- 535 PDF objects out of 1000 (max. 8388607)
- 319 compressed objects within 4 object streams
- 21 named destinations out of 1000 (max. 500000)
- 68 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 476 PDF objects out of 1000 (max. 8388607)
+ 290 compressed objects within 3 object streams
+ 19 named destinations out of 1000 (max. 500000)
+ 103 words of extra memory for PDF output out of 10000 (max. 10000000)
 
